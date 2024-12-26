@@ -3,21 +3,21 @@
 ## Foundational Mathematics (Prerequisites)  
 - **Linear Algebra**: Vectors, matrices, eigenvalues/eigenvectors, transformations.  
 - **Calculus**: Differentiation, gradients, optimization techniques.  
-- **Probability and Statistics**: Bayes theorem, probability distributions, hypothesis testing.  
+- **Probability and Statistics**: Bayes theorem, probability distributions, hypothesis testing.🔴  
 - **Discrete Mathematics**: Logic, set theory, and graph theory (useful for certain AI applications).  
 
 ## Data Analysis Basics  
 - **Data Types**: Structured, unstructured, semi-structured data.  
-- **Data Cleaning and Preprocessing**: Handling missing data, outliers, scaling, normalization.  
+- **Data Cleaning and Preprocessing**: Handling missing data, outliers, scaling, normalization.🔴  
 - **Exploratory Data Analysis (EDA)**: Statistical summaries, visualizations.  
-- **Knowledge Discovery in Databases (KDD)**: Steps in knowledge extraction.  
+- **Knowledge Discovery in Databases (KDD)**: Steps in knowledge extraction.🔴 
 - **Similarity Measures**  
 
 ## Machine Learning (ML)  
-- **Supervised Learning**:  
+- **Supervised Learning**:🔴
   - Regression: Linear, polynomial, ridge/lasso regression.  
   - Classification: Logistic regression, SVMs, decision trees, random forests.  
-- **Unsupervised Learning**:  
+- **Unsupervised Learning**:🔴  
   - Clustering: K-means.  
   - Dimensionality Reduction: PCA.  
 - **Semi-Supervised and Self-Supervised Learning**.  
@@ -29,7 +29,7 @@
 - Introduction to Artificial Neurons  
 
 ## Deep Learning (DL)  
-- **Neural Networks**:  
+- **Neural Networks**:🔴  
   - Feedforward, convolutional, recurrent networks.  
   - Activation functions, loss functions, backpropagation.  
 - **Advanced Architectures**:  
